@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **oksanabaza/oksanabaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/oksanabaza">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oksanabaza&show_icons=true&hide_border=true&count_private=true&icon_color=008080" alt="Oksana's GitHub Stats" />
+</a>
+<a href="https://github.com/oksanabaza">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksanabaza&count_private=true&icon_color=008080" />
+</a>
